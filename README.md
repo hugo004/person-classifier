@@ -1,1 +1,1 @@
-# seiyu-classifier
+# person classifier
